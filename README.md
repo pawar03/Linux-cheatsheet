@@ -4337,9 +4337,8 @@ Inspired by <a href="https://github.com/RehanSaeed/Bash-Cheat-Sheet">RehanSaeed/
 </p>
  </details>
 
----
 
-<details><summary><h3>Online Cheat Sheet for quick references of commands and codes <img src="https://user-images.githubusercontent.com/18756975/201507134-d2f5d9fc-0521-4e65-aba2-f5c7561939f0.png" width=20px height=20px></h3></summary>
+<details><summary><h3>Online Cheat Sheet for quick references of commands and codes </h3></summary>
 
 [cheat.sh](https://github.com/chubin/cheat.sh)<br>
 ![image](https://user-images.githubusercontent.com/18756975/200065767-13a6249f-2188-4206-8073-1714be57c408.png)<br>
@@ -4385,12 +4384,11 @@ cht.sh keyword
 </p>
  </details>
 
----
 
-<details><summary><h3>More bash resources <img src="https://user-images.githubusercontent.com/18756975/201534292-3b617041-77a8-4e2f-8683-641d0b8d7f57.PNG" width=15px height=20px> </h3></summary>
 
-|  |  |
-| :--: | :--: |
+<details><summary><h3>More bash resources  </h3></summary>
+
+
 | [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)  | Free Introduction to Bash Scripting eBook|
 | [100-shell-script-examples](https://github.com/epety/100-shell-script-examples) | Collection of shell scripts found on the internet |
 | [simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts)  | A collection of simple Bash scripts |
@@ -4410,4 +4408,4 @@ cht.sh keyword
 </p>
  </details>
  
----
+
